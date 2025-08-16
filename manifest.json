@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "평지야생 만들다가, 베드락 텍스쳐가 꼴보기 싫어져서 만든 애드온입니다.",
+   "name": "Bedrock Texture",
+   "uuid":"077c87b2-5e83-431a-8e5a-9e294a36616a",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 21, 90]
+  },
+ "modules": [
+   {
+     "description": "My First Add-On!",
+     "type": "resources",
+     "uuid": "9521e16a-2dcc-4106-8588-de0d517b200a",
+     "version": [1, 0, 0]
+   }
+ ]
+}
